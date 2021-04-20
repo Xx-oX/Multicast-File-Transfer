@@ -13,9 +13,11 @@
 
 * Run
   * client side
+  
       ./client
       
   * server side
+  
       ./server [FILE]
   
   * Need to run clients first!
