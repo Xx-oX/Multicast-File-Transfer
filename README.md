@@ -1,5 +1,5 @@
 # Multicast-File-Transfer
-## Lab2 for Computer Comunication Netwoek Course
+## Lab2 for Computer Comunication Network Course
 
 ## Description
 
